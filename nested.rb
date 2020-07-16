@@ -86,6 +86,7 @@ def adding_matz
      
      binding.pry
      programmer_hash[:yukihiro_matsumoto] = {}
+     programmer_hash[""]
      
 end
 
